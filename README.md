@@ -1,4 +1,4 @@
-<h1 align="center">
+https://gitlab.gnome.org/somas/apostrophe<h1 align="center">
 	<img src="brand/logo.svg" alt="Stories Typer" width="128" height="128"/><br>
  Stories Typer
 </h1>
@@ -37,5 +37,5 @@ Clone and run with **GNOME Builder**.
 # Credits
 Developed by **Rafael Mardojai CM**.
 
-I have used/modified code from [UberWriter](https://github.com/UberWriter/uberwriter) and [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) to learn about Gtk/Python text creation apps.
+I have used/modified code from [Apostrophe](https://gitlab.gnome.org/somas/apostrophe) and [Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki) to learn about Gtk/Python text creation apps.
 
